@@ -1,106 +1,172 @@
-# 🚀 NGL Spammer Pro
 
-**NGL Spammer Pro** adalah tool untuk mengirim spam pesan ke NGL secara otomatis.  
-Script ini ringan, cepat, mudah digunakan, dan mendukung berbagai sistem operasi.
+🚀 NGL Spammer Pro
 
----
+Tool untuk mengirim spam ke NGL secara otomatis.
+Mudah digunakan, ringan, dan mendukung berbagai OS (Termux, Linux, Windows).
 
-## ✨ Fitur Utama
-- ⚡ Spam otomatis super cepat  
-- 🔁 Pengiriman berulang tanpa batas  
-- 📱 Support Termux (Android)  
-- 🖥 Support Windows, Linux, Ubuntu  
-- 🌐 Menggunakan request modern  
-- 🧩 Mudah dipahami, cocok untuk pemula  
 
 ---
 
-# 📦 Struktur Project
+✨ Fitur
 
-nglspammerpro/ ├── spam.py └── README.md
+⚡ Spam super cepat
+
+🔁 Unlimited spam
+
+📱 Support Termux
+
+💻 Support Linux/Ubuntu
+
+🪟 Support Windows
+
+🧩 Script simple, cuma 1 file
+
+🛠 Auto-retry kalau error
+
+
 
 ---
 
-# 📥 Cara Install & Menjalankan
+📥 1. Install di Termux (Android)
 
-Berikut panduan lengkap untuk semua perangkat.
+🔧 Install Package
 
----
-
-# 🟩 **1. TERMUX (Android)**
-
-### ✅ Install dulu
-```bash
 pkg update && pkg upgrade
 pkg install git
 pkg install python3
 
-✅ Clone repository
+📌 Clone Repository
 
 git clone https://github.com/agusjawirtechid/nglspammerpro
 
-✅ Masuk ke folder
+📂 Masuk ke Folder
 
 cd nglspammerpro
 
-✅ Jalankan script
+▶️ Jalankan Script
 
 python3 spam.py
 
 
 ---
 
-🟥 2. LINUX / UBUNTU / DEBIAN / KALI
+🐧 2. Install di Linux / Ubuntu / Debian / Kali
 
-✅ Install Python & Git
+🔧 Install Python & Git
 
 sudo apt update
 sudo apt install python3 python3-pip git -y
 
-✅ Clone repo
+📌 Clone Repository
 
 git clone https://github.com/agusjawirtechid/nglspammerpro
 
-✅ Masuk folder
+📂 Masuk Folder
 
 cd nglspammerpro
 
-✅ Jalankan script
+▶️ Jalankan Script
 
 python3 spam.py
 
 
 ---
 
-🟦 3. WINDOWS (CMD / PowerShell)
+🪟 3. Install di Windows
 
-✅ Install Python
+🔧 Install Python
 
-Download di sini:
-https://www.python.org/downloads/
+Download: https://www.python.org/downloads
+Centang: ✔ Add Python to PATH
 
-Centang:
-✔ Add Python to PATH
+🔧 Install Git
 
-✅ Install Git
-
-Download:
-https://git-scm.com/download/win
+Download: https://git-scm.com/download/win
 
 
 ---
 
-Setelah terinstall, buka CMD/PowerShell:
-
-✅ Clone repo
+📌 Clone Repo
 
 git clone https://github.com/agusjawirtechid/nglspammerpro
 
-✅ Masuk ke folder
+📂 Masuk Folder
 
 cd nglspammerpro
 
-✅ Jalankan script
+▶️ Jalankan Script
 
 python spam.py
 
+
+---
+
+🧪 Jika Error
+
+Install module:
+
+pip install requests
+
+
+---
+
+🧭 Cara Menggunakan
+
+1. Masukkan username NGL
+
+
+2. Masukkan pesan yang ingin dikirim
+
+
+3. Masukkan jumlah spam
+
+
+4. Script akan berjalan otomatis:
+
+
+
+Contoh output:
+
+[✓] Mengirim pesan...
+[✓] Berhasil!
+[✓] Mengirim pesan...
+[✓] Berhasil!
+
+
+---
+
+📦 Struktur Project
+
+nglspammerpro/
+│── spam.py
+│── README.md
+
+
+---
+
+⭐ Support Project
+
+Kalau suka tools ini:
+
+⭐ Kasih star repo
+
+🔱 Fork project
+
+🐛 Laporkan bug di Issues
+
+
+
+---
+
+📞 Developer
+
+Created by agusjawirtechid
+Untuk request fitur → buat Issue di GitHub.
+
+
+---
+
+🎉 Terima kasih sudah menggunakan NGL Spammer Pro!
+
+
+---
