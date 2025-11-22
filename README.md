@@ -1,3 +1,4 @@
+
 🎉 NGL SPAMMER PRO
 
 🚀 Powerful Auto NGL Message Sender — Fast • Modern • Unlimited
@@ -5,45 +6,43 @@
 
 ---
 
+<div align="center">
+  <img src="assets/preview1.jpg" width="80%" style="border-radius:12px;">
+</div>
+---
+
 ✨ Fitur Utama
 
-⚡ Spam super cepat (tanpa batas)
+⚡ Spam super cepat, tanpa batas
 
-🔥 Tampilan terminal neon modern
+🧨 Tampilan terminal neon
 
-📱 Support Termux (Android)
+📱 Termux support
 
-🐧 Support Linux / Ubuntu / Debian
+🪟 Windows, Linux, Ubuntu support
 
-🪟 Support Windows (CMD / PowerShell)
+🎨 Clean & modern UI
 
-🎨 Full warna & clean UI
-
-🧠 Mudah digunakan, no setup ribet
+🧠 Mudah digunakan
 
 
 
 ---
 
-🖼️ Preview
-
-💻 Tampilan Script
+🖼️ Notifikasi Hasil Spam
 
 <div align="center">
-  <img src="assets/preview1.jpg" width="80%">
-</div>📱 Notifikasi NGL
-
-<div align="center">
-  <img src="assets/preview2.jpg" width="80%">
+  <img src="assets/preview2.jpg" width="80%" style="border-radius:12px;">
 </div>
 ---
 
 📦 Cara Install
 
+📱 Termux (Android)
 
----
+> GitHub otomatis menampilkan tombol Copy pada setiap code-block di bawah.
 
-📱 1. TERMUX (Android)
+
 
 🔧 Install paket
 
@@ -66,40 +65,26 @@ python3 spam.py
 
 ---
 
-🐧 2. LINUX / UBUNTU
-
-Install Python & Git
+🐧 Linux / Ubuntu
 
 sudo apt update
 sudo apt install python3 git -y
-
-Clone repo
-
 git clone https://github.com/agusjawirtechid/nglspammerpro
-
-Masuk folder & jalankan
-
 cd nglspammerpro
 python3 spam.py
 
 
 ---
 
-🪟 3. WINDOWS (CMD / PowerShell)
+🪟 Windows (CMD / PowerShell)
 
-Wajib install:
+Install dulu:
+✔ Python → python.org
+✔ Git → git-scm.com
 
-Python → https://python.org
-
-Git → https://git-scm.com/download/win
-
-
-Clone repo
+Jalankan:
 
 git clone https://github.com/agusjawirtechid/nglspammerpro
-
-Masuk folder & jalankan
-
 cd nglspammerpro
 python spam.py
 
@@ -111,32 +96,32 @@ python spam.py
 1. Masukkan link NGL target
 
 
-2. Masukkan pesan yang akan dikirim
+2. Isi pesan yang mau dikirim
 
 
-3. Masukkan delay (ms)
+3. Atur delay (ms)
 
 
-4. Konfirmasi pengaturan
+4. Konfirmasi
 
 
-5. Spam berjalan otomatis 🎉
+5. Spam mulai otomatis 🚀
 
 
 
 💡 Tips:
-Jika muncul 'Unknown error from API' = pesan sukses terkirim.
+Jika muncul "Unknown error from API" → artinya pesan 100% TERKIRIM.
 
 
 ---
 
-⭐ Dukung Project
+🌟 Dukung Project
 
-Kasih ⭐ di GitHub
+Klik ⭐ Star repo ini
 
-Fork buat modifikasi
+Fork & modifikasi
 
-Report bug kalau ketemu
+Buka Issue jika ada bug
 
 
 
@@ -146,3 +131,4 @@ Report bug kalau ketemu
 
 agusjawirtechid
 🔥 Project by Agus Jawa
+
